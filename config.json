@@ -1,0 +1,13 @@
+{
+  "theme": "codex",
+  "label_keys": "ASDFJKLEWRUIO",
+  "label_size": 12,
+  "smart_labels": true,
+  "auto_click": true,
+  "chain_clicks": false,
+  "sounds": false,
+  "volume": 0.35,
+  "mission_control": true,
+  "ignored_apps": [],
+  "scroll": { "keys": "hjkl", "speed": 1400, "dash": 3, "numbers": true }
+}
